@@ -54,6 +54,17 @@
         "streetNo": "A-498",
         "postalCode": "32830"
       }
+    },
+    {
+      "id": 101,
+      "name": "Rohan",
+      "email": "rl@gmail.com",
+      "phoneNumber": "+1152446876",
+      "address": {
+        "streetName": "Scottsdale Kierland",
+        "streetNo": "100",
+        "postalCode": "85254"
+      }
     }
   ]
 }
